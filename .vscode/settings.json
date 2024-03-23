@@ -1,0 +1,9 @@
+{
+    "background.fullscreen": {
+        "images": ["https://i.pinimg.com/originals/d7/28/e5/d728e5cd9679e9d33de4df3ea0b95571.png"],
+        "opacity": 0.9,
+        "size": "400px 400px",
+        "position": "bottom right",
+        "interval": 0
+    },
+}
